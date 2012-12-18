@@ -4,7 +4,7 @@
 # version 0.2.3
 
 # flags
-usage="$(basename $0) [-h] [-c] -- simple bash script for installing openttd
+usage="$(basename $0) [-h] [-r] -- simple bash script for installing openttd
 
 where:
     -h  show this help text
